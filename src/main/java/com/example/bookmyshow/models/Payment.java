@@ -1,10 +1,9 @@
-package com.example.bookmyshow.Models;
+package com.example.bookmyshow.models;
 
 import lombok.Getter;
 import lombok.Setter;
 
 import javax.persistence.*;
-import java.sql.Time;
 import java.util.Date;
 
 @Entity

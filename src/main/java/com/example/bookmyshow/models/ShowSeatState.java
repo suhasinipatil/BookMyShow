@@ -1,4 +1,4 @@
-package com.example.bookmyshow.Models;
+package com.example.bookmyshow.models;
 
 public enum ShowSeatState {
     BOOKED,
